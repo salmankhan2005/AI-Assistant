@@ -23,7 +23,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ai-assistant.git  
+git clone (https://github.com/salmankhan2005/AI-Assistant.git)  
 cd ai-assistant
 Install Dependencies
 bash
